@@ -17,7 +17,7 @@ from datetime import datetime
 class BudgetPlaner():
     
     def __init__(self):
-        self.PATH = r'D:\Sreekanth\DataScience\Python\Projects\03_Budget_Planner'
+        self.PATH = r'E:Python\Projects\03_Budget_Planner'
         #self.bg = '#E64D2C'
         self.bg = '#0294A5'
         self.fg = 'white'
